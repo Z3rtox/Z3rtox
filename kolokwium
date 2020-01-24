@@ -107,3 +107,54 @@ int main()
 
 }
 
+}
+// zad5a
+void wylicz(int n, int** tab) {
+	int x1 = -1;
+	int y1 = -1;
+	int suma = pow(2, sizeof(suma) * 8) / 2 - 1; // suma = 2147483647 - max z x
+	for (int x = 0; x < n; x++)
+		for (int y = 0; y < n; y++) {
+			int sumaT = 0;
+			for (int xx = -1; xx <= 1; xx++)
+				for (int yy = -1; yy <= 1; yy++)
+					if (x + xx >= 0 && xx + x < n) //warunek x w tablicy 
+						if (y + yy >= 0 && y + yy < n) // warunek na y
+							sumaT += tab[x + xx][y + yy];
+			if (sumaT < suma) { //wyliczone min mniejsze
+				suma = sumaT;
+				x1 = x;
+				y1 = y;
+			}
+		}
+	std::cout << "Wynik x:" << x1 << " y: " << y1 << " min: " << suma;
+}
+// zad 5 b
+void para(int n, int** tab) {
+	int x1 = -1;
+	int y1 = -1;
+	int x2 = -1;
+	int y2 = -1;
+	int suma = -pow(2, sizeof(suma) * 8) / 2; // suma = 2147483647 - min z x
+	for (int x = 0; x < n - 1; x++)
+		for (int y = 0; y < n; y++) {
+			if (tab[x][y] + tab[x + 1][y] > suma) // sasiad po prawej
+			{
+				suma = tab[x][y] + tab[x + 1][y];
+				x1 = x; y1 = y; x2 = x + 1; y2 = y;
+			}
+			if ((y<n-1) && (tab[x][y] + tab[x][y + 1] > suma)) // sasiad od spodu
+			{
+				suma = tab[x][y] + tab[x][y + 1];
+				x1 = x; y1 = y; x2 = x; y2 = y + 1;
+			}
+			if ((y<n-1) && (tab[x][y] + tab[x + 1][y + 1] > suma)) //sasiad po przek�tnej
+			{
+				suma = tab[x][y] + tab[x + 1][y + 1];
+				x1 = x; y1 = y; x2 = x + 1; y2 = y + 1;
+			}
+
+
+		}
+	std::cout << "Wynik x:" << x1 << " y: " << y1 << " x2:" << x2 << " y2: " << y2 << " max: " << suma;
+}
