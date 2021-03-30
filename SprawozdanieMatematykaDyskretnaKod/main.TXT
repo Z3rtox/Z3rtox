@@ -2,7 +2,7 @@ import random
 
 
 def main():
-    trees = Drzewa(1000)
+    trees = Drzewa(100)
     trees.sort()
     trees.zapisz('plik.txt', ',')
 
