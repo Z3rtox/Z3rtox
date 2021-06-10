@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    
+    <meta name="description" content="Praca PICK Jakub Bialikiewicz 3a">
+    <meta name="author" content="Jakub Bialikiewicz">
+
+    
+	<meta property="og:site_name" content="" /> 
+	<meta property="og:site" content="" /> 
+	<meta property="og:title" content=""/> 
+	<meta property="og:description" content="" /> 
+	<meta property="og:image" content="" /> 
+	<meta property="og:url" content="" /> 
+	<meta property="og:type" content="article" />
+
+    
+    <title>Praca PICK Jakub Bialikiewicz 3a</title>
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/fontawesome-all.css" rel="stylesheet">
+    <link href="css/swiper.css" rel="stylesheet">
+	<link href="css/magnific-popup.css" rel="stylesheet">
+	<link href="css/styles.css" rel="stylesheet">
+	
+
+    <link rel="icon" href="images/favicon.png">
+</head>
+<body data-spy="scroll" data-target=".fixed-top">
+    
+   
+	<div class="spinner-wrapper">
+        <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+    </div>
+    
+    
+
+ 
+    <nav class="navbar navbar-expand-md navbar-dark navbar-custom fixed-top">
+        
+
+        
+        <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a> 
+        
+       
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-awesome fas fa-bars"></span>
+            <span class="navbar-toggler-awesome fas fa-times"></span>
+        </button>
+       
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#sg">STRONA STARTOWA <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#dodatki">FUNKCJE APLIKACJI</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#zapowiedź">ZAPOWIEDŹ</a>
+                </li>
+
+                      
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle page-scroll" href="#details" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">SZCZEGÓŁY</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="terms-conditions.html"><span class="item-text">WARUNKI UŻYTKOWANIA</span></a>
+                        <div class="dropdown-items-divide-hr"></div>
+                        <a class="dropdown-item" href="privacy-policy.html"><span class="item-text">POLITYKA PRYWATNOŚCI</span></a>
+                    </div>
+                </li>
+                <!-- menu główne -->
+
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#kontakt">KONTAKT</a>
+                </li>
+            </ul>
+            <span class="nav-item social-icons">
+                <span class="fa-stack">
+                    <a href="#your-link">
+                        <i class="fas fa-circle fa-stack-2x"></i>
+                        <i class="fab fa-facebook-f fa-stack-1x"></i>
+                    </a>
+                </span>
+                <span class="fa-stack">
+                    <a href="#your-link">
+                        <i class="fas fa-circle fa-stack-2x"></i>
+                        <i class="fab fa-twitter fa-stack-1x"></i>
+                    </a>
+                </span>
+            </span>
+        </div>
+    </nav> 
+
+
+
+   
+    <header id="sg" class="header">
+        <div class="header-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="text-container">
+                            <h1>APLIKACJA <br>DLA <span id="js-rotating">DESIGNERÓW, AMATORÓW,PICK,jest,super</span></h1>
+                            <p class="p-large">Figma jest jedną z najłatwiejszych i najbardziej funkcjonalnych aplikacji do tworzenia prototypów stron Internetowych na rynku. Pobierz już dziś!</p>
+                            <a class="btn-solid-lg page-scroll" href="https://apps.apple.com/pl/app/figma-mirror/id1152747299?l=pl"><i class="fab fa-apple"></i>APP STORE</a>
+                            <a class="btn-solid-lg page-scroll" href="https://play.google.com/store/apps/details?id=com.figma.mirror&hl=pl&gl=US"><i class="fab fa-google-play"></i>PLAY STORE</a>
+                        </div>
+                    </div> 
+                    <div class="col-lg-6">
+                        <div class="image-container">
+                            <img class="img-fluid" src="images/telefon1.png" alt="alternative">
+                        </div> 
+                    </div>
+                </div> 
+            </div> 
+        </div> 
+    </header> 
+   
+
+   
+    <div class="slider-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                   
+                    <div class="slider-container">
+                        <div class="swiper-container card-slider">
+                            <div class="swiper-wrapper">
+                                
+                             
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <img class="card-image" src="images/testimonial-1.jpg" alt="alternative">
+                                        <div class="card-body">
+                                            <p class="testimonial-text">Właśnie skończyłam okres próbny premium i była tak zaskoczona wsparciem i wynikami, że kupiłem Figme premium na stałe.</p>
+                                            <p class="testimonial-author">Janina Kowalska - Designer</p>
+                                        </div>
+                                    </div>
+                                </div> 
+                                
+        
+                                
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <img class="card-image" src="images/testimonial-2.jpg" alt="alternative">
+                                        <div class="card-body">
+                                            <p class="testimonial-text">Nie wiem, jak udało mi się wykonać pracę bez Figmy. Szybkość tej aplikacji jest niesamowita!</p>
+                                            <p class="testimonial-author">Jakub Kolwaski - Developer</p>
+                                        </div>
+                                    </div>        
+                                </div> 
+                             
+        
+                             
+                                
+        
+                              
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <img class="card-image" src="images/testimonial-4.jpg" alt="alternative">
+                                        <div class="card-body">
+                                            <p class="testimonial-text">Jako początkujący w tworzeniu stron uważam, że figma jest bardzo przyjemnym narzędziem z którym warto sie zapoznać</p>
+                                            <p class="testimonial-author">Szymon Kolwalski- Początkujący</p>
+                                        </div>
+                                    </div>
+                                </div> 
+                     
+								  <div class="swiper-slide">
+                                    <div class="card">
+                                        <img class="card-image" src="images/testimonial-7.jpg" alt="alternative">
+                                        <div class="card-body">
+                                            <p class="testimonial-text">Stowrzyłem tą stronę z nadzieją zdania pierwszego semestru nic personalnego</p>
+                                            <p class="testimonial-author">Jakub Bialikiewicz- Zatrostkany student</p>
+                                        </div>
+                                    </div>
+                                </div> 
+        
+								<div class="swiper-slide">
+                                    <div class="card">
+                                        <img class="card-image" src="images/testimonial-8.jpg" alt="alternative">
+                                        <div class="card-body">
+                                            <p class="testimonial-text">My gran could do better! And she`s dead! </p>
+                                            <p class="testimonial-author">Gordon Ramsay- jakiś losowy kuchcina</p>
+                                        </div>
+                                    </div>
+                                </div> 
+                               
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <img class="card-image" src="images/testimonial-5.jpg" alt="alternative">
+                                        <div class="card-body">
+                                            <p class="testimonial-text">W sumie nie ważne co tu jest napsiane, ważne jak to jest zrobione</p>
+                                            <p class="testimonial-author">pani XYZ - ZYX</p>
+                                        </div>
+                                    </div>        
+                                </div> 
+                            
+        
+                                
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <img class="card-image" src="images/testimonial-6.jpg" alt="alternative">
+                                        <div class="card-body">
+                                            <p class="testimonial-text">Fajne, polecam </p>
+                                            <p class="testimonial-author">Joanna Dark - Losowa Francuzka</p>
+                                        </div>
+                                    </div>        
+                                </div> -
+                               
+                            
+                            </div> 
+        
+                        
+                            <div class="swiper-button-next"></div>
+                            <div class="swiper-button-prev"></div>
+                           
+        
+                        </div>
+                    </div> 
+                   
+
+                </div> 
+            </div> 
+        </div> 
+    </div> 
+   
+
+  
+    <div id="dodatki" class="tabs">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>Funkcje aplikacji</h2>
+                    <div class="p-heading p-large">Figma została zaprojektowana w oparciu o opinie Profesjonalistów w branży IT i popularnych DESIGNERÓW, więc oferuje wszystko</div>
+                </div> 
+            </div> 
+            <div class="row">
+
+                >
+                <ul class="nav nav-tabs" id="A1Tabs" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="nav-tab-1" data-toggle="tab" href="#tab-1" role="tab" aria-controls="tab-1" aria-selected="true"><i class="fas fa-cog"></i>CO OFERUJEMY</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="nav-tab-2" data-toggle="tab" href="#tab-2" role="tab" aria-controls="tab-2" aria-selected="false"><i class="fas fa-binoculars"></i>NAWIGACJA</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="nav-tab-3" data-toggle="tab" href="#tab-3" role="tab" aria-controls="tab-3" aria-selected="false"><i class="fas fa-search"></i>MONITORING</a>
+                    </li>
+                </ul>
+            
+
+
+               
+                <div class="tab-content" id="A1TabsContent">
+                    
+                    
+                    <div class="tab-pane fade show active" id="tab-1" role="tabpanel" aria-labelledby="tab-1">
+                        <div class="container">
+                            <div class="row">
+                                
+                              
+                                <div class="col-lg-4">
+                                    <div class="card left-pane first">
+                                        <div class="card-body">
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">Dąrzymy ku perfekcji</h4>
+                                                <p>Jak każdy proces samodoskonalenia, wszystko zaczyna się od wyznaczenia celów i zaangażowania się w nie</p>
+                                            </div>
+                                            <div class="card-icon">
+                                                <i class="far fa-compass"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card left-pane">
+                                        <div class="card-body">
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">Edytor wizualny</h4>
+                                                <p>Figma zapewnia dobrze zaprojektowany i ergonomiczny edytor wizualny do edycji projektów nowo powstałych jak i już tych istniejących </p>
+                                            </div>
+                                            <div class="card-icon">
+                                                <i class="far fa-file-code"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card left-pane">
+                                        <div class="card-body">
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">Dopracowane opcje</h4>
+                                                <p>Każda opcja, która znajduje się w menu aplikacji jest w ciągu dalszym rozwija</p>
+                                            </div>
+                                            <div class="card-icon">
+                                                <i class="far fa-gem"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+
+                                
+                                <div class="col-lg-4">
+                                    <img class="img-fluid" src="images/telefon2.png" alt="alternative">
+                                </div>
+                              
+                                
+                              
+                                <div class="col-lg-4">
+                                    <div class="card right-pane first">
+                                        <div class="card-body">
+                                            <div class="card-icon">
+                                                <i class="far fa-calendar-check"></i>
+                                            </div>
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">Dostępność</h4>
+                                                <p>Figma dostępna jest wszędzie tam gdzie twoje urządzenie mobilne z internetem!</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card right-pane">
+                                        <div class="card-body">
+                                            <div class="card-icon">
+                                                <i class="far fa-bookmark"></i>
+                                            </div>
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">Łatwość zrozumienia</h4>
+                                                <p>Figma powstałą z myślą zarówno o profecjonalistach w swojej branży jak i o początkujących którzy chcą się czegoś nauczyć </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card right-pane">
+                                        <div class="card-body">
+                                            <div class="card-icon">
+                                                <i class="fas fa-cube"></i>
+                                            </div>
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">Dobra podstawa</h4>
+                                                <p>Uzyskaj solidne podstawy do wysiłków na rzecz samorozwoju. Wypróbuj aplikację mobilną Figma na dowolną platformę mobilną</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+
+                            </div> 
+                        </div>
+                    </div> 
+                   
+                    <div class="tab-pane fade" id="tab-2" role="tabpanel" aria-labelledby="tab-2">
+                        <div class="container">
+                            <div class="row">
+
+                              
+                                <div class="col-md-4">
+                                    <img class="img-fluid" src="images/telefon3.png" alt="alternative">
+                                </div>
+                              
+                                
+                                
+                                <div class="col-md-8">
+                                    <div class="text-area">
+                                        <h3>Miej pełną kontrolę nad własnymi projektami </h3>
+                                        <p>Figma jest aplikacją darmową co za tym idzie możesz uzyskać dostęp do swoich prac zawsze bez żadnych opłat. W celu uzyskania dodatkowych opcji możesz skorzystać z wersji <a class="turquoise" href="#your-link">Premium</a>. za jedyne milion polskich złociszczy miesięcznie.</p>
+                                    </div> 
+                                    
+                                    <div class="icon-cards-area">
+                                            <div class="card">
+                                                <div class="card-icon">
+                                                    <i class="fas fa-cube"></i>
+                                                </div>
+                                                <div class="card-body">
+                                                     <h4 class="card-title">Dobra podstawa</h4>
+                                                <p>Uzyskaj solidne podstawy do wysiłków na rzecz samorozwoju. Wypróbuj aplikację mobilną Figma na dowolną platformę mobilną</p>
+                                            </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-icon">
+                                                    <i class="far fa-bookmark"></i>
+                                                </div>
+                                                <div class="card-body">
+                                                    <h4 class="card-title">Łatwość zrozumienia</h4>
+                                                <p>Figma powstałą z myślą zarówno o profecjonalistach w swojej branży jak i o początkujących którzy chcą się czegoś nauczyć </p>
+                                            </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-icon">
+                                                    <i class="far fa-calendar-check"></i>
+                                                </div>
+                                                <div class="card-body">
+                                                   <h4 class="card-title">Dostępność</h4>
+                                                <p>Figma dostępna jest wszędzie tam gdzie twoje urządzenie mobilne z internetem!</p>
+                                            </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-icon">
+                                                    <i class="far fa-file-code"></i>
+                                                </div>
+                                                <div class="card-body">
+                                                     <h4 class="card-title">Edytor wizualny</h4>
+                                                <p>Figma zapewnia dobrze zaprojektowany i ergonomiczny edytor wizualny do edycji projektów nowo powstałych jak i już tych istniejących </p>
+                                            </div>
+                                            </div>
+                                    </div> 
+                                </div> 
+                                
+
+                            </div> 
+                        </div> 
+                    </div> 
+                  
+
+                  
+                    <div class="tab-pane fade" id="tab-3" role="tabpanel" aria-labelledby="tab-3">
+                        <div class="container">
+                            <div class="row">
+
+                                
+                                <div class="col-md-8">
+                                    <div class="icon-cards-area">
+                                        <div class="card">
+                                            <div class="card-icon">
+                                                <i class="far fa-calendar-check"></i>
+                                            </div>
+                                            <div class="card-body">
+                                                 <h4 class="card-title">Dostępność</h4>
+                                                <p>Figma dostępna jest wszędzie tam gdzie twoje urządzenie mobilne z internetem!</p>
+                                            </div>
+                                        </div>
+                                        <div class="card">
+                                            <div class="card-icon">
+                                                <i class="far fa-file-code"></i>
+                                            </div>
+                                            <div class="card-body">
+                                               <h4 class="card-title">Edytor wizualny</h4>
+                                                <p>Figma zapewnia dobrze zaprojektowany i ergonomiczny edytor wizualny do edycji projektów nowo powstałych jak i już tych istniejących </p>
+                                            </div>
+                                        </div>
+                                        <div class="card">
+                                            <div class="card-icon">
+                                                <i class="fas fa-cube"></i>
+                                            </div>
+                                            <div class="card-body">
+                                               <h4 class="card-title">Dobra podstawa</h4>
+                                                <p>Uzyskaj solidne podstawy do wysiłków na rzecz samorozwoju. Wypróbuj aplikację mobilną Figma na dowolną platformę mobilną</p>
+                                            </div>
+                                        </div>
+                                        <div class="card">
+                                            <div class="card-icon">
+                                                <i class="far fa-bookmark"></i>
+                                            </div>
+                                            <div class="card-body">
+                                                <h4 class="card-title">Łatwość zrozumienia</h4>
+                                                <p>Figma powstałą z myślą zarówno o profecjonalistach w swojej branży jak i o początkujących którzy chcą się czegoś nauczyć </p>
+                                            </div>
+                                        </div>
+                                    </div> 
+                                    
+                                    <div class="text-area">
+                                        <h3>Wypatruj nowych narzędzi</h3>
+                                        <p>Figma jest aktualizowana na bierząco by zapewnić ci funkcjonalność i przyjemność z pracy. Najnowsze aktualizacje znajdziesz  <a class="turquoise" href="#your-link">TUTAJ</a>.</p>
+                                    </div> 
+                                </div> 
+                              
+
+                               
+                                <div class="col-md-4">
+                                    <img class="img-fluid" src="images/telefon4.png" alt="alternative">
+                                </div>
+                               
+                                    
+                            </div> 
+                        </div> 
+                    </div>
+                   
+                </div>
+          
+
+            </div> 
+        </div> 
+    </div> 
+    
+
+
+   
+    <div id="zapowiedź" class="basic-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>ZAPOWIEDŹ</h2>
+                    <div class="p-heading p-large">W celu pokazania jak prosta w obsłudze jest figma załączamy Film z prezentacją programu  </div>
+                </div> 
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+
+                    
+                    <div class="image-container">
+                        <div class="video-wrapper">
+                            <a class="popup-youtube" href="https://www.youtube.com/watch?v=jk1T0CdLxwU" data-effect="fadeIn">
+                                <img class="img-fluid" src="images/video-frame.jpg" alt="alternative">
+                                <span class="video-play-button">
+                                    <span></span>
+                                </span>
+                            </a>
+                        </div> 
+                    </div> 
+                
+
+                </div>
+            </div> 
+        </div> 
+    </div> 
+
+
+
+   
+    <div id="details" class="basic-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+
+                    <img class="img-fluid" src="images/figma1.png" alt="alternative">
+                </div> 
+				
+                <div class="col-lg-6">
+                    <div class="text-container">
+					
+                        <h3>Zalety dla ciebie</h3>
+                        <p>Z pomocą figmy z łatwością możesz poszerzyć spektrum swoich możliwości i nauczyć się przydatnych rzeczy w dziedzinie tworzenia stron </p>
+                        <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-1">LIGHTBOX</a>
+                    </div> 
+                </div> 
+            </div> 
+        </div> 
+    </div> 
+    
+
+
+   
+    <div class="basic-3">
+        <div class="second">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="text-container">
+                            <h3>Główne cele</h3>
+                            <p>Dążymy do tego by figma była dobrze znana każdemu młodemu developerowi by mogli oni wyrobić własną opninie na temat figmy </p>
+                            <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-2">LIGHTBOX</a>
+                        </div> <!-- end of text-container -->
+                    </div> <!-- end of col -->
+                    <div class="col-lg-6">
+                        <img class="img-fluid" src="images/figma1.png" alt="alternative">
+                    </div> <!-- end of col -->
+                </div> <!-- end of row -->
+            </div> <!-- end of container -->
+        </div> <!-- end of second -->
+    </div> <!-- end of basic-3 -->    
+    <!-- end of details 2 -->
+
+
+    <!-- Details Lightboxes -->
+	<!-- Lightbox -->
+	<div id="details-lightbox-1" class="lightbox-basic zoom-anim-dialog mfp-hide">
+		<div class="row">
+			<button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+			
+			<div class="col-lg-6">
+				<h3>Zalety dla ciebie</h3>
+				<hr>
+                <p>Z pomocą figmy z łatwością możesz poszerzyć spektrum swoich możliwości i nauczyć się przydatnych rzeczy w dziedzinie tworzenia stron </p>
+                <h4>Feedback</h4>
+                <p>To świetna aplikacja, która może pomóc Ci zaoszczędzić czas i ułatwić Ci życie. Pomoże to podnieść poziom produktywności..</p>
+                <p>Zdecydowanie powinieneś spróbować, gdy potrzebujesz dobrej aplikacji.</p>
+				<table>
+					<tr><td class="icon-cell"><i class="fas fa-desktop"></i></td><td>elastyczny układ stron </td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-bullhorn"></i></td><td>Distinctive CTAs</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-image"></i></td><td>Grafika wektorowa</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-envelope"></i></td><td>wygodne miejsce pracy</td></tr>
+					<tr><td class="icon-cell"><i class="fab fa-font-awesome-flag"></i></td><td>z dostępem do dużej ilości rozszerzeń</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-code"></i></td><td>rozbudowany layout </td></tr>
+				</table>
+				<a class="btn-solid-reg" href="#your-link">SZCZEGÓŁY</a> <a class="btn-outline-reg mfp-close as-button" href="#details">POWRÓT</a> 
+			</div>
+		</div>
+    </div> 
+    
+    
+   
+    <div id="details-lightbox-2" class="lightbox-basic zoom-anim-dialog mfp-hide">
+		<div class="row">
+			<button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+			<div class="col-lg-6">
+				<img class="img-fluid" src="images/details-lightbox-2.png" alt="alternative">
+			</div>
+			<div class="col-lg-6">
+				<h3>Główne cele</h3>
+				<hr>
+                <p>Dążymy do tego by figma była dobrze znana każdemu młodemu developerowi by mogli oni wyrobić własną opninie na temat figmy </p>
+                 <h4>Feedback</h4>
+                <p>To świetna aplikacja, która może pomóc Ci zaoszczędzić czas i ułatwić Ci życie. Pomoże to podnieść poziom produktywności..</p>
+                <p>Zdecydowanie powinieneś spróbować, gdy potrzebujesz dobrej aplikacji.</p>
+				<table>
+					<tr><td class="icon-cell"><i class="fas fa-desktop"></i></td><td>elastyczny układ stron </td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-bullhorn"></i></td><td>Distinctive CTAs</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-image"></i></td><td>Grafika wektorowa</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-envelope"></i></td><td>wygodne miejsce pracy</td></tr>
+					<tr><td class="icon-cell"><i class="fab fa-font-awesome-flag"></i></td><td>z dostępem do dużej ilości rozszerzeń</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-code"></i></td><td>rozbudowany layout </td></tr>
+				</table>
+				<a class="btn-solid-reg" href="#your-link">SZCZEGÓŁY</a> <a class="btn-outline-reg mfp-close as-button" href="#details">POWRÓT</a> 
+			</div>
+		</div> 
+    </div> 
+  
+
+
+         
+                
+    
+  
+    
+
+
+    
+    <div class="basic-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-xl-5">
+                    <div class="text-container">
+                        <h2>Pobierz <span class="blue"> Figme</span></h2>
+                        <p class="p-large">Pobierz Figme już teraz by uzyskać darmowy miesiąc próbny wersji premium</p>
+                        <a class="btn-solid-lg" href="#your-link"><i class="fab fa-apple"></i>APP STORE</a>
+                        <a class="btn-solid-lg" href="#your-link"><i class="fab fa-google-play"></i>PLAY STORE</a>
+                    </div> 
+                </div> 
+                <div class="col-lg-6 col-xl-7">
+                    <div class="image-container">
+                        <img class="img-fluid" src="images/downald.png" alt="alternative">
+                    </div> 
+                </div>
+            </div> 
+        </div> 
+    </div> 
+    
+
+
+   
+    <div class="counter">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    
+                    
+                    <div id="counter">
+                        <div class="cell">
+                            <div class="counter-value number-count" data-count="2137">1</div>
+                            <p class="counter-info">Zadowoleni Użytkownicy</p>
+                        </div>
+                        <div class="cell">
+                            <div class="counter-value number-count" data-count="852">1</div>
+                            <p class="counter-info">ukończone projekty</p>
+                        </div>
+                        <div class="cell">
+                            <div class="counter-value number-count" data-count="1488">1</div>
+                            <p class="counter-info">Pozytywne opinie o Figmie</p>
+                        </div>
+                        
+                    </div>
+                   
+                    
+                </div> 
+            </div> 
+        </div> 
+    </div> 
+  
+
+
+    
+    <div id="kontakt" class="form">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>Kontakt</h2>
+                    <ul class="list-unstyled li-space-lg">
+                        <li class="address">Zadzwoń do nas lub skorzystaj z poniższego formularza kontaktowego</li>
+                        <li><i class="fas fa-map-marker-alt"></i>Nie ma adresu ale co tam postarajcie sie </li>
+                        <li><i class="fas fa-phone"></i><a class="blue" href="tel:003024630820">+00 000 000</a></li>
+                        <li><i class="fas fa-envelope"></i><a class="blue" href="jakubbialikiewicz@gmail.com">jakubbialikiewicz@gmail.com</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3">
+                  
+                    <form id="contactForm" data-toggle="validator" data-focus="false">
+                        <div class="form-group">
+                            <input type="text" class="form-control-input" id="cname" required>
+                            <label class="label-control" for="cname">Imie</label>
+                            <div class="help-block with-errors"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control-input" id="cemail" required>
+                            <label class="label-control" for="cemail">Email</label>
+                            <div class="help-block with-errors"></div>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control-textarea" id="cmessage" required></textarea>
+                            <label class="label-control" for="cmessage">Twoja wiadomość</label>
+                            <div class="help-block with-errors"></div>
+                        </div>
+                        <div class="form-group checkbox">
+                            <input type="checkbox" id="cterms" value="Agreed-to-Terms" required>Przeczytałem i zgadzam się na warunki użytkowania Figmy <a href="privacy-policy.html">Zasady Prywatności </a> and <a href="terms-conditions.html">Warunki użytkowania</a> 
+                            <div class="help-block with-errors"></div>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="form-control-submit-button">ZATWIERDŹ WIADOMOŚĆ</button>
+                        </div>
+                        <div class="form-message">
+                            <div id="cmsgSubmit" class="h3 text-center hidden"></div>
+                        </div>
+                    </form>
+                    
+
+                </div> 
+            </div> 
+        </div> 
+    </div> 
+
+
+   
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="footer-col">
+                        <h4>Figma </h4>
+                        <p>Z pasją tworzymy najlepsze prototypy aplikacji mobilnych</p>
+                    </div>
+                </div> 
+                <div class="col-md-4">
+                    
+                </div> 
+                <div class="col-md-4">
+                    <div class="footer-col last">
+                        <h4>Social Media</h4>
+                        <span class="fa-stack">
+                            <a href="#your-link">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-facebook-f fa-stack-1x"></i>
+                            </a>
+                        </span>
+                        <span class="fa-stack">
+                            <a href="#your-link">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-twitter fa-stack-1x"></i>
+                            </a>
+                        </span>
+                        <span class="fa-stack">
+                            <a href="#your-link">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-google-plus-g fa-stack-1x"></i>
+                            </a>
+                        </span>
+                        <span class="fa-stack">
+                            <a href="#your-link">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-instagram fa-stack-1x"></i>
+                            </a>
+                        </span>
+                        <span class="fa-stack">
+                            <a href="#your-link">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-linkedin-in fa-stack-1x"></i>
+                            </a>
+                        </span>
+                    </div> 
+                </div> 
+            </div> 
+        </div> 
+    </div>
+    
+
+
+  
+    
+    
+    	
+   >
+    <script src="js/jquery.min.js"></script> 
+    <script src="js/popper.min.js"></script> 
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/swiper.min.js"></script>
+    <script src="js/jquery.magnific-popup.js"></script> 
+    <script src="js/morphext.min.js"></script> 
+    <script src="js/validator.min.js"></script> 
+    <script src="js/scripts.js"></script> 
+</body>
+</html>
